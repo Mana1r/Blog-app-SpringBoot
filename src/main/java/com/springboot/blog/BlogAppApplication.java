@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Bean;
                 ),
                 license = @License(
                         name = "Apache 2.0",
-                        url = "https://www.manar-zich.software"
+                        url = "https://github.com/Mana1r/Blog-app-SpringBoot"
         )
         ),
         externalDocs = @ExternalDocumentation(
